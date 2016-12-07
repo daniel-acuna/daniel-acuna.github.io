@@ -2,6 +2,7 @@
 layout: single
 permalink: /about/
 author_profile: true
+title: "About"
 header:
   image: /assets/images/research-header.gif
 ---

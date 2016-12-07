@@ -5,9 +5,10 @@ author_profile: false
 header:
   image: /assets/images/research.png
   caption: "Wanderer, Caspar David Friedrich. Credit: Photographic reproduction by Cybershot800i. (Diff), Wikimedia Commons"
+title: "Funding"
 ---
 
-# EAGER: Improving scientific innovation by linking funding and scholarly literature
+## EAGER: Improving scientific innovation by linking funding and scholarly literature
 
 ![](/assets/images/nsf4.gif){: .align-left} This project identifies scientists and organizations and their topical interests, enabling the tracking of past productivity and impact. By linking scholarly literature and grants, this project creates a unified dataset that captures diverse scientific disciplines and federal grant award types. A web-based levels the playing field for scientists lacking knowledge about research and funding programs. Users are expected to spend less time searching the literature and more time evaluating significance and impact. 
 

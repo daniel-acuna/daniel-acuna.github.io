@@ -4,3 +4,5 @@ main:
     url: /about/
   - title: "Funding"
     url: /funding/
+  - title: "Blog"
+    url: /blog/
