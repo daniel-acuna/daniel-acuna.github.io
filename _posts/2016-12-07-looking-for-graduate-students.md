@@ -17,7 +17,7 @@ The methods and techniques used in my research include:
   - Bayesian statistics
   - Python, R, Hadoop, and SQL.
 
-Please take a look at my [reseearch](/research/) and if you have questions, 
+Please take a look at my [research](/research/) and if you have questions, 
 send me an email to `deacuna AT syr DOT edu`.
 Otherwise, [apply to the Ph.D. program](https://ischool.syr.edu/admissions/checklists/phd-checklist/) and mention my name in you materials.
 
