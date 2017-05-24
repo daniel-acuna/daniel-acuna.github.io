@@ -23,11 +23,7 @@ Daniel enjoys making contributions to the open source Data Science community, of
   - __Acuna, DE__, Berniker, M, Fernandes, H, Kording, K, (2015) _Using psychophysics to ask if the brain samples or maximizes_, Journal of Vision
   - __Acuna, DE__, Penner, Orion, Orton CG, (2013) _The future h-index is an excellent way to predict scientists’ future impact_, Med. Phys
   - __Acuna, DE__, Allesina, S., Kording, KP, (2012) _Future impact: Predicting scientific success_, Nature
-  
+
 # Teaching
 
-I like to combine strong theoretical foundations with practical use cases. The theoretical foundation will help students decide which solutions work best; the technical aspects of data science will help students get a job.
-
-# Personal
-
-Economics, Theoretical Computer Science, the unfinished works of classical piano composers, and why cats like catnip.
+I teach courses in the area of data science at the iSchool. Currently, I teach IST 718: Advanced Information Analytics. This course goes through several use cases of real world data science analysis using state of the art machine learning such as Random Forest and Deep Learning. The course is also focused on tools for dealing with big data. We use Python, Hadoop 2.0, and Apache Spark.
