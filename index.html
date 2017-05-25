@@ -25,9 +25,10 @@ feature_row:
     btn_label: "Learn More"
 ---
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+{% capture news_include %}{% include_relative _pages/news.md %}{% endcapture %}
+{{ news_include | markdownify }}
 
-{% include_relative _pages/news %}
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% for post in paginator.posts %}
   {% include archive-single.html %}
