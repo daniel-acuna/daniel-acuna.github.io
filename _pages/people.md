@@ -14,8 +14,8 @@ header:
 
 # Doctoral students
 
-- Alain Shema, iSchool
-- Mahboobeh Harandi (research practicum), iSchool
+- [Alain Shema](http://alainshema.com), iSchool
+- [Mahboobeh Harandi](https://ischool.syr.edu/people/directories/view/mharandi/) (research practicum), iSchool
 
 # Master students
 
