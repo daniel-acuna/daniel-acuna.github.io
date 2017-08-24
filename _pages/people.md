@@ -14,16 +14,23 @@ header:
 
 # Doctoral students
 
-- [Alain Shema](http://alainshema.com), iSchool
-- [Mahboobeh Harandi](https://ischool.syr.edu/people/directories/view/mharandi/) (research practicum), iSchool
+- [Alain Shema](http://alainshema.com), iSchool, since Fall 2016
+- Alex Smith, iSchool, since Fall 2017
+- Han Zhuang, iSchool, since Fall 2017
 
 # Master students
 
-- Kartik Nagre, iSchool
-- Ziyi Qiu, Computer Engineering
+- Kartik Nagre, iSchool, since Fall 2016
+- Ziyi Qiu, Computer Engineering, since Summer 2017
+- Priya Matnani, iSchool, since Fall 2017
 
 # Alumni
 
+#### Ph.D. students
+- [Mahboobeh Harandi](https://ischool.syr.edu/people/directories/view/mharandi/), 
+iSchool, Research Practicum, Spring 2017 
+
+#### Master's students
 - Shengjun Zhang, MS (2017), iSchool, looking for positions in Data Science
 - Zhida Zhao, MS (2017), iSchool, looking for positions in Data Science
 - Manas Sikri, MS (2017), iSchool, Pond5 Inc
