@@ -14,7 +14,9 @@ header:
 
 # Visiting scholars
 
-- Tong Zeng (曾通), Doctoral student in Information Science, School of Information Management, Nanjing University 
+- Tong Zeng (曾通), Doctoral student in Information Science, 
+[School of Information Management](https://www.nju.edu.cn/EN/7f/7d/c7136a163709/page.htm), 
+[Nanjing University](https://www.nju.edu.cn/EN/)
 
 # Doctoral students
 

@@ -1,6 +1,7 @@
 ## Upcoming events and recent news
 
-- `October 2017` New Visiting Scholar Tong Zeng from School of Information Management, 
+- `October 2017` New Visiting Scholar Tong Zeng from 
+[School of Information Management](https://www.nju.edu.cn/EN/7f/7d/c7136a163709/page.htm), 
 [Nanjing University](https://www.nju.edu.cn/EN/) to join us!
 - `Fall 2017` New Ph.D. students [Alex Smith](https://ischool.syr.edu/people/directories/view/aosmith/) 
 and [Han Zhuang](https://ischool.syr.edu/people/directories/view/hzhuang/) will be working with me! 
