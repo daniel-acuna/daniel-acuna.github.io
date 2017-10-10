@@ -12,6 +12,10 @@ header:
 
 - [Daniel Acuna](/about), Ph.D., Assistant Professor, iSchool
 
+# Visiting scholars
+
+- Tong Zeng (曾通), Doctoral student in Information Science, School of Information Management, Nanjing University 
+
 # Doctoral students
 
 - [Alain Shema](http://alainshema.com), iSchool, since Fall 2016
