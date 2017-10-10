@@ -19,8 +19,8 @@ header:
 # Doctoral students
 
 - [Alain Shema](http://alainshema.com), iSchool, since Fall 2016
-- Alex Smith, iSchool, since Fall 2017
-- Han Zhuang, iSchool, since Fall 2017
+- [Alex Smith](https://ischool.syr.edu/people/directories/view/aosmith/), iSchool, since Fall 2017
+- [Han Zhuang](https://ischool.syr.edu/people/directories/view/hzhuang/), iSchool, since Fall 2017
 
 # Master students
 
