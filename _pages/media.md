@@ -1,0 +1,4 @@
+- [Webinar on tools to improve peer review: reviewer-manuscript assignment and article scoring](https://aibs.zoom.us/webinar/register/c562b613e8b98c8d66858a512be5123a)
+- New formula beats citation index and can predict success, 3 scientist say (2012), The Chronicle of Higher Education, A20 [Article](http://www.scribd.com/doc/110425733/The-Chronicle-September-21-2012-Download)
+- Predicting scientific success (September 13, 2012), Nature Podcast  [Podcast](http://www.nature.com/nature/podcast/index-2012-09-13.html)
+- Science Friday, NPR Spanish, [Podcast](http://sciencefriday.com/blogs/09/20/2012/-20-neurociencia-para-todos-la-migraci-n-de-las-monarca-y-predecir-el-futuro.html?audience=3&series=24)

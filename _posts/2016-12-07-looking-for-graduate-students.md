@@ -1,6 +1,8 @@
 ---
 layout: single
 excerpt: "Looking for Ph.D. students to work with me"
+categories: Blog
+published: false
 ---
 
 I am looking for Ph.D. students with strong quantitative background and 
