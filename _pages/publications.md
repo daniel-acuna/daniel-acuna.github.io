@@ -1,5 +1,6 @@
 #### 2018
-- Teplitskiy, M, **Acuna, DE**, Elamrani-Raoult, A, Körding, K, Evans, J, (2018) _The Social Structure of Consensus in Scientific Review_ [Link](https://arxiv.org/pdf/1802.01270.pdf)
+- `pre-print` **Acuna, DE**, Brooks, P, Kording, P (2018) _Bioscience-scale automated detection of figure element reuse_ (2018) BioArXiv, [Link](https://arxiv.org/pdf/1802.01270.pdf)
+- `pre-print` Teplitskiy, M, **Acuna, DE**, Elamrani-Raoult, A, Körding, K, Evans, J, (2018) _The Social Structure of Consensus in Scientific Review_ ArXiv, [Link](https://arxiv.org/pdf/1802.01270.pdf)
 
 #### 2017
 
