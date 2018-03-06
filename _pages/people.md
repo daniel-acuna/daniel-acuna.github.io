@@ -23,7 +23,7 @@ header:
 - [Alain Shema](http://alainshema.com), iSchool, since Fall 2016
 - [Alex Smith](https://ischool.syr.edu/people/directories/view/aosmith/), Graduate Assistant, iSchool, since Fall 2017
 - [Han Zhuang](https://ischool.syr.edu/people/directories/view/hzhuang/), Research Assistant, iSchool, since Fall 2017
-- [Sarah Bratt](https://ischool.syr.edu/people/directories/view/sebratt/), Research Practicum, iSchool, since Fall 2017
+- [Sarah Bratt](https://ischool.syr.edu/people/directories/view/sebratt/), Research Practicum, iSchool, since Spring 2018
 
 # Master students
 
