@@ -21,24 +21,26 @@ header:
 # Doctoral students
 
 - [Alain Shema](http://alainshema.com), iSchool, since Fall 2016
-- [Alex Smith](https://ischool.syr.edu/people/directories/view/aosmith/), Graduate Assistant, iSchool, since Fall 2017
 - [Han Zhuang](https://ischool.syr.edu/people/directories/view/hzhuang/), Research Assistant, iSchool, since Fall 2017
-- [Sarah Bratt](https://ischool.syr.edu/people/directories/view/sebratt/), Research Practicum, iSchool, since Spring 2018
 
 # Master students
 
 - Kartik Nagre, iSchool, since Fall 2016
 - Ziyi Qiu, Computer Engineering, since Summer 2017, looking for positions in Data Science
 - Priya Matnani, iSchool, since Fall 2017
-- Xinxuan Wei, iSchool, since Fall 2018
+- Xinxuan Wei, iSchool, since Spring 2018
 - Zexin Yao, Computer Science, since Spring 2018
 
 
 # Alumni
 
-#### Ph.D. students
+#### Ph.D. student practica
 - [Mahboobeh Harandi](https://ischool.syr.edu/people/directories/view/mharandi/), 
-iSchool, Research Practicum, Spring 2017 
+iSchool, Research Practicum, Spring 2017
+- [Alex Smith](https://ischool.syr.edu/people/directories/view/aosmith/), Graduate Assistant, Teaching and Research
+Practica, iSchool (Fall 2017-Spring 2018) 
+- [Sarah Bratt](https://ischool.syr.edu/people/directories/view/sebratt/), Research Practicum, iSchool, Spring 2018
+
 
 #### Master's students
 - Shengjun Zhang, MS (2017), iSchool, Bytedance Inc.
