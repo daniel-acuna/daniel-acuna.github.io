@@ -1,6 +1,11 @@
 #### Preprints
 - **Acuna, DE**, Brooks, P, Kording, P (2018) _Bioscience-scale automated detection of figure element reuse_ (2018) BioArXiv, [Link](https://arxiv.org/pdf/1802.01270.pdf)
 
+#### 2018
+
+- Taraz G. Lee, **Acuna, DE**, K. P., Grafton, S. T. (2018) _Limiting motor skill knowledge via incidental 
+training protects against choking under pressure_, Psychonomic Bulletin & Review [Link](https://doi.org/10.3758/s13423-018-1486-x)
+
 #### 2017
 
 - Shema, A, **Acuna, DE** (2017) _Show Me Your App Usage and I Will Tell Who Your Close Friends Are: Predicting User's Context from Simple Cellphone Activity_, CHI 2017, Pages 2929-2935, Denver, Colorado [Link](https://dl.acm.org/citation.cfm?id=3053275)
