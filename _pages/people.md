@@ -25,12 +25,9 @@ header:
 
 # Master students
 
-- Kartik Nagre, iSchool, since Fall 2016
-- Ziyi Qiu, Computer Engineering, since Summer 2017, looking for positions in Data Science
 - Priya Matnani, iSchool, since Fall 2017
 - Xinxuan Wei, iSchool, since Spring 2018
 - Zexin Yao, Computer Science, since Spring 2018
-
 
 # Alumni
 
@@ -43,6 +40,8 @@ Practica, iSchool (Fall 2017-Spring 2018)
 
 
 #### Master's students
+- Kartik Nagre, iSchool, Fall 2016 - Spring 2018
+- Ziyi Qiu, Computer Engineering, Summer 2017 - Spring 2018, looking for positions in Data Science
 - Shengjun Zhang, MS (2017), iSchool, Bytedance Inc.
 - Zhida Zhao, MS (2017), iSchool, looking for positions in Data Science
 - Manas Sikri, MS (2017), iSchool, Goldman Sachs
