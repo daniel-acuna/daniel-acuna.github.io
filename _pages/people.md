@@ -40,7 +40,7 @@ Practica, iSchool (Fall 2017-Spring 2018)
 
 
 #### Master's students
-- Kartik Nagre, iSchool, Fall 2016 - Spring 2018
+- Kartik Nagre, iSchool, Fall 2016 - Spring 2018, Data Scientist at NewtonX
 - Ziyi Qiu, Computer Engineering, Summer 2017 - Spring 2018, looking for positions in Data Science
 - Shengjun Zhang, MS (2017), iSchool, Bytedance Inc.
 - Zhida Zhao, MS (2017), iSchool, looking for positions in Data Science
