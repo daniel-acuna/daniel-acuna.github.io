@@ -1,3 +1,4 @@
+- July, 2018 - Invited Talk, iSchool - _Biases in AI models_
 - November, 2017 - Invited Talk, Computer Science, Syracuse University - _Data Science of Data Science: Should you improve your Hadoop skills or learn time series analytics?_
 - October, 2017 - Invited Talk, Rochester Institute of Technology - _Data Science of Data Science: Should you improve your Hadoop skills or learn time series analytics?_
 - October, 2016 - Research Computing colloquium - [_Improving Scientific Innovation: A Data Science Perspective_](http://researchcomputing.syr.edu/fall-colloquies/)
