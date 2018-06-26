@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Available positions"
+    url: /blog/acuna-lab-is-looking-for-students/
   - title: "Research"
     url: /research/
   - title: "Funding"

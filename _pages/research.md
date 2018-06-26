@@ -3,8 +3,12 @@ layout: single
 permalink: /research/
 author_profile: false
 title: "Research"
+toc: true
+toc_label: "Sections"
+toc_icon: "book"
+toc_sticky: true
 ---
-{% include toc %}
+
 
 ## Publications
 
