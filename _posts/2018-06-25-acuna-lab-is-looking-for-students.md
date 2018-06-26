@@ -43,7 +43,7 @@ or a similar quantitative field. The work to be done revolves around a recently-
 - Develop reproducible software and tools to optimally match reviewers and manuscripts based on
  mathematical objective functions
 - Write method and result sections for scientific manuscripts
-- Posses advanced computer programming skills in languages such as Python and R. SQL is also
+- Have advanced computer programming skills in languages such as Python and R. SQL is also
 desirable
 - Understand linear algebra, calculus, probability and statistics
 - Understand machine learning software tools and piplines in `scikit-learn`, `R`, or `Spark ML`
