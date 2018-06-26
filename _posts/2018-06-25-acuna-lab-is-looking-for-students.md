@@ -11,19 +11,16 @@ toc: true
 
 ## About the lab
 
-Dr. Acuna is an Assistant Professor in the [School of Information Studies](http://ischool.syr.edu) 
-at [Syracuse University](http://syracuse.edu). He currently
+Dr. Acuna is an Assistant Professor in the School of Information Studies 
+at Syracuse University. He currently
 works on mathematical and computational models of scientific discovery, predictability,
 and integrity. Please take a moment to look
 at his [background](/about/), [research](/research/), and [recent grants](/funding/).
-In particular, look at his previous work on 
-[predicting scientific success](https://www.nature.com/articles/489201a), [recommendation systems for
-science](http://eileen.io), and [peer review panel formation](http://pr.scienceofscience.org).
 
 Professor Acuna teaches courses for the 
-[Applied Data Science](https://ischool.syr.edu/academics/graduate/masters-degrees/ms-in-applied-data-science/) 
-and [Information Management](https://ischool.syr.edu/academics/graduate/masters-degrees/ms-in-information-management/) graduate degrees. He is currently the teacher and Professor of Record for 
-[IST 718: Advanced Information Analytics]({% post_url 2018-02-18-IST718 %}).
+Applied Data Science 
+and Information Management graduate degrees. He is currently the teacher and Professor of Record for 
+the course IST 718: Advanced Information Analytics.
 
 Past Master's students have done internships in Silicon Valley (e.g., Airbnb), 
 are working in major consulting companies (e.g., Ernst & Young,  Goldman Sachs), and are 
