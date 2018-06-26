@@ -1,7 +1,7 @@
 ---
 layout: single
 excerpt: |
-  Looking for Ph.D. and Masters students to work on exciting applications
+  Looking for Ph.D. and Master's students to work on exciting applications
   of artificial intelligence and pattern recognition to automate science.
 categories: Blog
 title: Acuna lab is looking for students to optimize science using machine learning
@@ -25,13 +25,13 @@ Professor Acuna teaches courses for the
 and [Information Management](https://ischool.syr.edu/academics/graduate/masters-degrees/ms-in-information-management/) graduate degrees. He is currently the teacher and Professor of Record for 
 [IST 718: Advanced Information Analytics]({% post_url 2018-02-18-IST718 %}).
 
-Past Masters students have done internships in Silicon Valley (e.g., Airbnb), 
+Past Master's students have done internships in Silicon Valley (e.g., Airbnb), 
 are working in major consulting companies (e.g., Ernst & Young,  Goldman Sachs), and are 
 broadly working as data scientists. Please see the [People section](/people/). 
 
 ## About the position
  
-Professor Acuna is looking for Ph.D. and first-year Masters students to work on an exciting new project
+Professor Acuna is looking for Ph.D. and first-year Master's students to work on an exciting new project
 around the mathematical and computational modeling of scientific peer review. The ideal candidate 
 should have an undergraduate major in Computer Science, Engineering, Applied Statistics, Mathematics, 
 or a similar quantitative field. The work to be done revolves around a recently-awarded 
@@ -46,7 +46,7 @@ or a similar quantitative field. The work to be done revolves around a recently-
 - Have advanced computer programming skills in languages such as Python and R. SQL is also
 desirable
 - Understand linear algebra, calculus, probability and statistics
-- Understand machine learning software tools and piplines in `scikit-learn`, `R`, or `Spark ML`
+- Understand machine learning software tools and pipelines in `scikit-learn`, `R`, or `Spark ML`
 - Understand basic concepts of software engineering
 - Have good communication skills
 
@@ -58,7 +58,7 @@ Applied Statistics, Applied Mathematics, or similar quantitative fields
 Python, R, C, C++, or Java. Experience with handling big data with Apache Spark is a plus.
 - Demonstrable knowledge of linear algebra, calculus, probability, and statistics
 
-__Positions are available immediately. For Masters students, only first-year students will be considered__
+__Positions are available immediately. For Master's students, only first-year students will be considered__
 
 If you have any questions, please send an email to `deacuna AT syr DOT edu`. If you are thinking
 of applying to the Ph.D. program, we have a very competitive __fully-funded program__, and you

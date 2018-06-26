@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
   - title: "Available positions"
     url: /blog/acuna-lab-is-looking-for-students/
+  - title: "About"
+    url: /about/
   - title: "Research"
     url: /research/
   - title: "Funding"
