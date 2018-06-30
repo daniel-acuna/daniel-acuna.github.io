@@ -10,6 +10,7 @@ title: |
   NSF: EAGER: Improving scientific innovation by linking 
   funding and scholarly literature
 categories: Funding
+last_modified_at: 2018-06-28
 ---
 
 {% include toc %}
