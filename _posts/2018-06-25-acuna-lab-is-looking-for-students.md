@@ -55,10 +55,18 @@ Applied Statistics, Applied Mathematics, or similar quantitative fields
 Python, R, C, C++, or Java. Experience with handling big data with Apache Spark is a plus.
 - Demonstrable knowledge of linear algebra, calculus, probability, and statistics
 
-__Positions are available immediately. For Master's students, only first-year students will be considered__
 
-If you have any questions, please send an email to `deacuna AT syr DOT edu`. If you are thinking
-of applying to the Ph.D. program, we have a very competitive __fully-funded program__, and you
+## Apply
+
+Send an email to `deacuna AT syr DOT edu` and include:
+1. A short introduction of yourself and why you want to work with me
+1. A short CV or a 1-page resume
+1. Your Github repository, preferably with code from a personal project rather than a "class project".
+1. Your transcripts
+1. Your GRE, GMAT, or equivalent (e.g., gaokao) scores
+
+If you have any questions, do not hesitate in contacting me. 
+If you are thinking of applying to the Ph.D. program, we have a very competitive __fully-funded program__, and you
 should contact me first. Otherwise, 
 [apply to the Ph.D. program](https://ischool.syr.edu/admissions/checklists/phd-checklist/) 
 and mention my name in you materials.
