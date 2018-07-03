@@ -20,6 +20,17 @@ categories: Funding
 
 ### Abstract
 
+Fraudulent reuse of scientific figures is an increasingly common problem that 
+damages the public perception of science. 
+The Office of Research Integrity (ORI) reviews whistleblowers' accusations carefully,
+ taking a reactive approach to investigate this type of misconduct. 
+ Recently, Acuna, Brookes, and Kording (2018) used machine learning to detect 
+ figure reuse in PubMed Open Access articles which share same junior or senior 
+ scientist. They estimated that around 0.6% of the papers were very likely fraudulent.
+ Current image manipulation investigations are however reactive, 
+ not across-authors scalable, originated from whistleblowers, and without 
+ statistically-supported verdicts. 
+
 In this project, we propose to dramatically scale automated detection 
 of figure reuse across articles and collaborate with ORIs and active 
 researchers in the area. We also propose to develop statistical methods 
