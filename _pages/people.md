@@ -20,7 +20,6 @@ header:
 
 # Doctoral students
 
-- [Alain Shema](http://alainshema.com), iSchool, since Fall 2016
 - [Han Zhuang](https://ischool.syr.edu/people/directories/view/hzhuang/), Research Assistant, iSchool, since Fall 2017
 
 # Master students
@@ -32,6 +31,8 @@ header:
 # Alumni
 
 #### Ph.D. student practica
+- [Alain Shema](http://alainshema.com), Graduate Assistant, Teaching and Research
+Practica (Fall 2016 - Spring 2018)
 - [Mahboobeh Harandi](https://ischool.syr.edu/people/directories/view/mharandi/), 
 iSchool, Research Practicum, Spring 2017
 - [Alex Smith](https://ischool.syr.edu/people/directories/view/aosmith/), Graduate Assistant, Teaching and Research
