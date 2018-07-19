@@ -3,6 +3,8 @@
 
 #### 2018
 
+- Teplitskiy, M, **Acuna, DE**, Elamrani-Raoult, A, Körding, K, Evans, J _The Social Structure of Consensus in Scientific Review_ [Link](https://arxiv.org/pdf/1802.01270.pdf) (*Accepted*)
+
 - Taraz G. Lee, **Acuna, DE**, K. P., Grafton, S. T. (2018) _Limiting motor skill knowledge via incidental 
 training protects against choking under pressure_, Psychonomic Bulletin & Review [Link](https://doi.org/10.3758/s13423-018-1486-x)
 
