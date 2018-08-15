@@ -25,7 +25,6 @@ header:
 # Master students
 
 - Priya Matnani, iSchool, since Fall 2017
-- Xinxuan Wei, iSchool, since Spring 2018
 - Zexin Yao, Computer Science, since Spring 2018
 
 # Alumni
@@ -41,6 +40,7 @@ Practica, iSchool (Fall 2017-Spring 2018)
 
 
 #### Master's students
+- Xinxuan Wei, iSchool, Spring 2018 - Summer 2018
 - Kartik Nagre, iSchool, Fall 2016 - Spring 2018, Data Scientist at NewtonX
 - Ziyi Qiu, Computer Engineering, Summer 2017 - Spring 2018, looking for positions in Data Science
 - Shengjun Zhang, MS (2017), iSchool, Bytedance Inc.
