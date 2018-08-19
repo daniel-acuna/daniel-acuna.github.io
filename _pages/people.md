@@ -24,8 +24,8 @@ header:
 
 # Master students
 
-- Priya Matnani, iSchool, since Fall 2017
-- Zexin Yao, Computer Science, since Spring 2018
+- Priya Matnani, iSchool, since Fall 2017 (Summer 2018 internship at Airbnb, San Francisco)
+- Zexin Yao, Computer Science, since Spring 2018 (Summer 2018 internship at NetEase Games, Guangzhou City, China)
 
 # Alumni
 
