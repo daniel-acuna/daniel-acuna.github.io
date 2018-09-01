@@ -27,6 +27,7 @@ header:
 - Priya Matnani, iSchool (IM with CAS in Data Science), Faculty Engagement Scholar, since Fall 2017 (Summer 2018 internship at Airbnb, San Francisco)
 - Zexin Yao, Computer Science, since Spring 2018 (Summer 2018 internship at NetEase Games, Guangzhou City, China)
 - Woojin Park, iSchool (Applied Data Science program), Faculty Engagement Scholar, since Fall 2018
+- [Ziyue (Alan) Xiang](http://www.alanshawn.com/), Computer Science, since Fall 2018
 
 # Alumni
 
