@@ -26,8 +26,15 @@ header:
 
 - Priya Matnani, iSchool (IM with CAS in Data Science), Faculty Engagement Scholar, since Fall 2017 (Summer 2018 internship at Airbnb, San Francisco)
 - Zexin Yao, Computer Science, since Spring 2018 (Summer 2018 internship at NetEase Games, Guangzhou City, China)
+- Xinxuan Wei, iSchool, since Spring 2018
 - Woojin Park, iSchool (Applied Data Science program), Faculty Engagement Scholar, since Fall 2018
 - [Ziyue (Alan) Xiang](http://www.alanshawn.com/), Computer Science, since Fall 2018
+- Puzhen (Price) Qian, Computer Science, since Fall 2018
+- Lizhen Liang, iSchool, since Fall 2018
+- Omkar Buchade, Computer Science, since Fall 2018
+- Mengyu (Mike) Liu, Computer Science, since Fall 2018
+- Shloak Gupta, iSchool, since Fall 2018
+
 
 # Alumni
 
@@ -42,7 +49,6 @@ Practica, iSchool (Fall 2017-Spring 2018)
 
 
 #### Master's students
-- Xinxuan Wei, iSchool, Spring 2018 - Summer 2018
 - Kartik Nagre, iSchool, Fall 2016 - Spring 2018, Data Scientist at NewtonX
 - Ziyi Qiu, Computer Engineering, Summer 2017 - Spring 2018, looking for positions in Data Science
 - Shengjun Zhang, MS (2017), iSchool, Bytedance Inc.
