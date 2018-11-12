@@ -33,7 +33,6 @@ header:
 - Lizhen Liang, iSchool, since Fall 2018
 - Omkar Buchade, Computer Science, since Fall 2018
 - Mengyu (Mike) Liu, Computer Science, since Fall 2018
-- Shloak Gupta, iSchool, since Fall 2018
 
 
 # Alumni
@@ -49,6 +48,7 @@ Practica, iSchool (Fall 2017-Spring 2018)
 
 
 #### Master's students
+- Shloak Gupta, iSchool, Fall 2018
 - Kartik Nagre, iSchool, Fall 2016 - Spring 2018, Data Scientist at NewtonX
 - Ziyi Qiu, Computer Engineering, Summer 2017 - Spring 2018, looking for positions in Data Science
 - Shengjun Zhang, MS (2017), iSchool, Bytedance Inc.
