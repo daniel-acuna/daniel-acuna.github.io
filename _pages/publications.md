@@ -1,9 +1,11 @@
-#### Preprints
-- **Acuna, DE**, Brooks, P, Kording, P (2018) _Bioscience-scale automated detection of figure element reuse_ (2018) BioArXiv, [Link](https://arxiv.org/pdf/1802.01270.pdf)
-
 #### 2018
 
-- Teplitskiy, M, **Acuna, DE**, Elamrani-Raoult, A, Körding, K, Evans, J _The Social Structure of Consensus in Scientific Review_ [Link](https://arxiv.org/pdf/1802.01270.pdf) (*Accepted*)
+- Líenard, JF, Achakulvisut, T, **Acuna, DE**, David, SV, _Intellectual Synthesis in Mentorship Determines Success in Academic Careers_, Nature Communications, [Link](https://www.nature.com/articles/s41467-018-07034-y) ([press release in Nature Asia](https://www.natureasia.com/en/research/highlight/12793))
+
+- Teplitskiy, M, **Acuna, DE**, Elamrani-Raoult, A, Körding, K, Evans, J (2018) _The sociology of scientific validity: How professional networks shape judgement in peer review_, Research Policy [Link](https://www.sciencedirect.com/science/article/pii/S0048733318301598)
+
+- **Acuna, DE**, Brooks, P, Kording, P (2018) _Bioscience-scale automated detection of figure element reuse_ (2018) BioArXiv, [Link](https://arxiv.org/pdf/1802.01270.pdf) `Preprint`
+
 
 - Taraz G. Lee, **Acuna, DE**, K. P., Grafton, S. T. (2018) _Limiting motor skill knowledge via incidental 
 training protects against choking under pressure_, Psychonomic Bulletin & Review [Link](https://doi.org/10.3758/s13423-018-1486-x)

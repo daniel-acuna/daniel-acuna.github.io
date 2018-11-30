@@ -1,5 +1,6 @@
 ## Upcoming events and recent news
 
+- `Nov 2018` [Intellectual synthesis in mentorship determines success in academic careers](https://www.nature.com/articles/s41467-018-07034-y) in Nature Communications, [press release in Nature Asia](https://www.natureasia.com/en/research/highlight/12793)
 - `July 2018` The Office of Research Integrity DDHS has generously funded our grant  [Methods and tools for scalable figure reuse
  detection with statistical certainty reporting]({% 
  post_url 2018-07-01-scalable-figure-reuse-detection %})
