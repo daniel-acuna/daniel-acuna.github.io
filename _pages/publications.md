@@ -1,3 +1,7 @@
+#### 2019
+
+- Zeng, T, **Acuna, DE**, _Dead science: most resources linked in scientific articles disappear in eight years_, iConference 2019 (to appear in Lecture Notes of Computer Science)
+
 #### 2018
 
 - Líenard, JF, Achakulvisut, T, **Acuna, DE**, David, SV, _Intellectual Synthesis in Mentorship Determines Success in Academic Careers_, Nature Communications, [Link](https://www.nature.com/articles/s41467-018-07034-y) ([press release in Nature Asia](https://www.natureasia.com/en/research/highlight/12793))
