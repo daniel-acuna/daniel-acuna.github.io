@@ -58,17 +58,12 @@ Python, R, C, C++, or Java. Experience with handling big data with Apache Spark 
 
 ## Apply
 
-__If you are an SU's iSchool student__, use the Faculty Assistantship application and look for the position entitled 
-_Multiple Data Science positions available for first-year Master's students_.  
-[Faculty Assistantship application](https://fa.ischool.syr.edu/apply/7d443db3-605a-420c-8771-1199e312d587/){: .btn .btn--inverse}  
-{: .notice--warning}
-
 Otherwise, send an email to `deacuna AT syr DOT edu` and include:
 1. A short introduction of yourself and why you want to work with me
 1. A short CV or a 1-page resume
 1. Your Github repository, preferably with code from a personal project rather than a "class project".
 1. Your transcripts
-1. Your GRE, GMAT, or equivalent (e.g., gaokao) scores
+1. Your GRE, GMAT, or equivalent scores
 
 If you have any questions, do not hesitate in contacting me. 
 If you are thinking of applying to the Ph.D. program, we have a very competitive __fully-funded program__, and you
