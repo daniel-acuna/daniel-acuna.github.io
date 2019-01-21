@@ -22,7 +22,7 @@ Applied Data Science
 and Information Management graduate degrees. He is currently the teacher and Professor of Record for 
 the course IST 718: Advanced Information Analytics.
 
-Past Master's students have done internships in Silicon Valley (e.g., Airbnb), 
+Past Master's students have done internships in Silicon Valley (e.g., Airbnb, Google), 
 are working in major consulting companies (e.g., Ernst & Young,  Goldman Sachs), and are 
 broadly working as data scientists. Please see the [People section](/people/). 
 
