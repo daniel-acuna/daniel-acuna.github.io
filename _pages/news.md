@@ -4,7 +4,6 @@
   Oral presentation at the [6th World Conference on Research Integrity](http://wcri2019.org/), Hong Kong
 - <i class="fas fa-newspaper"></i> `March 20, 2019`
   Invited talk [Advanced Institute for Yotta Informatics](http://www.aiic.tohoku.ac.jp/en/), Tohoku University, Sendai, Japan
-- <i class="fas fa-newspaper"></i> `Feb, 2019` Visiting [Columbia University's Data Science Institute](https://datascience.columbia.edu/)
 - <i class="fas fa-newspaper"></i> `Feb 14 - 15, 2019` Attending [Rich Context Competition Workshop](https://coleridgeinitiative.org/richcontextcompetition), [NYU's Wagner Graduate School of Public Service](https://wagner.nyu.edu/) 
 - <i class="fas fa-newspaper"></i> `Nov 2018` New publication [Intellectual synthesis in mentorship determines success in academic careers](https://www.nature.com/articles/s41467-018-07034-y) in Nature Communications, [press release in Nature Asia](https://www.natureasia.com/en/research/highlight/12793)
 - `July 2018` The Office of Research Integrity DDHS has generously funded our grant  [Methods and tools for scalable figure reuse
