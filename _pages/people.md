@@ -29,7 +29,6 @@ header:
 - Xinxuan Wei, iSchool, since Spring 2018
 - Woojin Park, iSchool (Applied Data Science program), Faculty Engagement Scholar, since Fall 2018
 - [Ziyue (Alan) Xiang](http://www.alanshawn.com/), Computer Science, since Fall 2018
-- Puzhen (Price) Qian, Computer Science, since Fall 2018
 - Lizhen Liang, iSchool, since Fall 2018
 - Omkar Buchade, Computer Science, since Fall 2018
 - Mengyu (Mike) Liu, Computer Science, since Fall 2018
@@ -49,6 +48,7 @@ Practica, iSchool (Fall 2017-Spring 2018)
 
 
 #### Master's students
+- Puzhen (Price) Qian, Computer Science, Fall 2018 - Spring 2019
 - Shloak Gupta, iSchool, Fall 2018
 - Kartik Nagre, iSchool, Fall 2016 - Spring 2018, Data Scientist at NewtonX
 - Ziyi Qiu, Computer Engineering, Summer 2017 - Spring 2018, looking for positions in Data Science
