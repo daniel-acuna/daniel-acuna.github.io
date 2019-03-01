@@ -30,7 +30,7 @@ header:
 - Woojin Park, iSchool (Applied Data Science program), Faculty Engagement Scholar, since Fall 2018
 - [Ziyue (Alan) Xiang](http://www.alanshawn.com/), Computer Science, since Fall 2018
 - Lizhen Liang, iSchool, since Fall 2018
-- Omkar Buchade, Computer Science, since Fall 2018
+- Omkar Buchade, Computer Science, since Fall 2018 (in Summer 2019 internship with CBS Interactive)
 - Mengyu (Mike) Liu, Computer Science, since Fall 2018
 - Ananth Raj GV, iSchool, since Spring 2019
 
