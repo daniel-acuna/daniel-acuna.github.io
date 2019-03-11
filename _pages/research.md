@@ -3,6 +3,8 @@ layout: single
 permalink: /research/
 author_profile: false
 title: "Research"
+header:
+  image: /assets/images/research-header.gif
 toc: true
 toc_label: "Sections"
 toc_icon: "book"
