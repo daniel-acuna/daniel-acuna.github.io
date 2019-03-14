@@ -27,13 +27,12 @@ This project identifies scientists and organizations and their topical interests
 This project consolidates disparate repositories of publications and grants, disambiguates and enriches information about scientists and organizations, and builds a web-based tool to help navigate this information. This project solves many of these issues by modeling the relationship approximately 2.6 million grants from the Federal RePORTER, and a consolidated, multi-source dataset of millions of articles from Microsoft Academic Graph (83 M), MEDLINE (25 M), PubMed Open Access Subset (1 M), ArXiv (0.6 M), and the National Bureau of Economic Research [NBER] (14K). The project creates a web-based tool that generates instantaneous reports about publications, grants, scientists, and organizations related to users' interests. The unified dataset and web tool could revolutionize how Program Officers evaluate proposals and how researchers find fundable ideas, making science faster, more accurate, and less biased.
 
 
-### Articles (8)
+### Articles (7)
 
 - Achakulvisut, T, **Acuna, DE**, Bassett. DS, Kording, KP, _Unique subfields of neuroscience 
 exhibit more diverse language_ [Link](https://github.com/titipata/language-variability-neuro/blob/master/manuscript/unique_subfields_achakulvisut.pdf)
 - Líenard, JF, Achakulvisut, T, **Acuna, DE**, David, SV, _Intellectual Synthesis in Mentorship Determines Success in Academic Careers_ [Link](https://doi.org/10.1101/273888)
 - Harandi, M, **Acuna, DE**, _Differences in productivity patterns for junior and senior NSF grantees_
-- Shema, A, **Acuna, DE**, _Unprivate privacy: revealing people's behavioral patterns through simple mobile app usage_
 - Teplitskiy, M, **Acuna, DE**, Elamrani-Raoult, A, Körding, K, Evans, J _The Social Structure of Consensus in Scientific Review_ [Link](https://arxiv.org/pdf/1802.01270.pdf)
 - **Acuna, DE**, Brooks, P, Kording, P (2018) _Bioscience-scale automated detection of figure element reuse_ (2018) BioArXiv, [Link](https://arxiv.org/pdf/1802.01270.pdf)
 - Shema, A, **Acuna, DE** (2017) _Show Me Your App Usage and I Will Tell Who Your Close Friends Are: Predicting User's Context from Simple Cellphone Activity_, CHI 2017, Pages 2929-2935, Denver, Colorado [Link](https://dl.acm.org/citation.cfm?id=3053275)
