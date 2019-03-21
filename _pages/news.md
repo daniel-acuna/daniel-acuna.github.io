@@ -2,10 +2,11 @@
 
 - <i class="fas fa-newspaper"></i> `June 2 - 5, 2019`
   Oral presentation at the [6th World Conference on Research Integrity](http://wcri2019.org/), Hong Kong
+- <i class="fas fa-newspaper"></i> `May 10, 2019`
+  Invited speaker to the 8th Annual Ethics in Biomedical Research Lecture, University of Rochester School of Medicine and Dentistry
 - <i class="fas fa-newspaper"></i> `March 31 - April 3, 2019`
   Short paper presentation [iConference 2019](https://www.conftool.com/iConference2019/index.php?page=browseSessions&form_session=363&presentations=show), University of Maryland
-- <i class="fas fa-newspaper"></i> `March 20, 2019`
-  Invited talk at [Symposium of Yotta Informatics](http://www.aiyotta.tohoku.ac.jp/sympo2019/index.html), Tohoku University, Sendai, Japan
+- `March 20, 2019` Invited talk at [Symposium of Yotta Informatics](http://www.aiyotta.tohoku.ac.jp/sympo2019/index.html), Tohoku University, Sendai, Japan
 - `Feb 14 - 15, 2019` Attending [Rich Context Competition Workshop](https://coleridgeinitiative.org/richcontextcompetition), [NYU's Wagner Graduate School of Public Service](https://wagner.nyu.edu/) 
 - `Nov 2018` New publication [Intellectual synthesis in mentorship determines success in academic careers](https://www.nature.com/articles/s41467-018-07034-y) in Nature Communications, [press release in Nature Asia](https://www.natureasia.com/en/research/highlight/12793)
 - `July 2018` The Office of Research Integrity DDHS has generously funded our grant  [Methods and tools for scalable figure reuse
