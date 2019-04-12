@@ -25,7 +25,6 @@ header:
 # Master students
 
 - Priya Matnani, iSchool (IM with CAS in Data Science), Faculty Engagement Scholar, since Fall 2017 (Summer 2018 internship at Airbnb, San Francisco), will be software engineer for Airbnb starting June, 2019
-- Zexin Yao, Computer Science, since Spring 2018 (Summer 2018 internship at NetEase Games, Guangzhou City, China) - will be a software engineer for Google starting June, 2019
 - Xinxuan Wei, iSchool, since Spring 2018
 - Woojin Park, iSchool (Applied Data Science program), Faculty Engagement Scholar, since Fall 2018
 - [Ziyue (Alan) Xiang](http://www.alanshawn.com/), Computer Science, since Fall 2018
@@ -48,6 +47,7 @@ Practica, iSchool (Fall 2017-Spring 2018)
 
 
 #### Master's students
+- Zexin Yao, Computer Science, Spring 2018 - Spring 2019 (Summer 2018 internship at NetEase Games, Guangzhou City, China) - will be a software engineer for Google starting June, 2019
 - Puzhen (Price) Qian, Computer Science, Fall 2018 - Spring 2019
 - Shloak Gupta, iSchool, Fall 2018
 - Kartik Nagre, iSchool, Fall 2016 - Spring 2018, Data Scientist at NewtonX
