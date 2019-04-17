@@ -16,8 +16,10 @@
 - `February 2018` [Nature](https://www.nature.com/articles/d41586-018-02421-3) featured our pre-print on [Bioscience-scale automated detection of figure element reuse]({% post_url 2018-02-23-bioscience-scale-automated-detection-of-figure-reuse %}) 
 
 ## Travel
+- `September 5 - 8, 2019` [Metascience 2019 Symposium](https://www.metascience2019.org/), Stanford University, Stanford, CA
 - `June 11 - 12, 2019` International Conference on Science of Science, Tsinghua University and the University of Chicago Center in Beijing, China
 - `June 2 - 5, 2019` [6th World Conference on Research Integrity](http://wcri2019.org/), Hong Kong
+- `May 22-23, 2019` [2019 Research Integrity Conference](https://www.researchintegrity.northwestern.edu/2019conference/), Chicago, IL
 - `May 10, 2019`, University of Rochester, Rocherster, NY
 - `March 31 - April 3, 2019`, University of Maryland, College Park, Maryland
 - `March 20, 2019` Tohoku University, Sendai, Japan
