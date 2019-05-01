@@ -1,5 +1,5 @@
 ## News
-- <i class="fas fa-newspaper"></i> `June 11 - 12, 2019` Presenting at International Conference on Science of Science, Beijing, China
+- <i class="fas fa-newspaper"></i> `June 11 - 12, 2019` Attending International Conference on Science of Science, Beijing, China
 - <i class="fas fa-newspaper"></i> `June 2 - 5, 2019`
   Oral presentation at the [6th World Conference on Research Integrity](http://wcri2019.org/), Hong Kong
 - <i class="fas fa-newspaper"></i> `May 10, 2019`
