@@ -1,4 +1,5 @@
 ## News
+- <i class="fas fa-newspaper"></i> `October 14 - 16, 2019` A talk and poster accepted to the [Atlanta Conference on Science and Innovation Policy](http://www.atlconf.org/)
 - <i class="fas fa-newspaper"></i> `June 11 - 12, 2019` Attending International Conference on Science of Science, Beijing, China
 - <i class="fas fa-newspaper"></i> `June 2 - 5, 2019`
   Oral presentation at the [6th World Conference on Research Integrity](http://wcri2019.org/), Hong Kong
@@ -16,6 +17,8 @@
 - `February 2018` [Nature](https://www.nature.com/articles/d41586-018-02421-3) featured our pre-print on [Bioscience-scale automated detection of figure element reuse]({% post_url 2018-02-23-bioscience-scale-automated-detection-of-figure-reuse %}) 
 
 ## Travel
+
+- `October 14 - 16, 2019` [Atlanta Conference on Science and Innovation Policy](http://www.atlconf.org/), Atlanta, Georgia
 - `September 5 - 8, 2019` [Metascience 2019 Symposium](https://www.metascience2019.org/), Stanford University, Stanford, CA
 - `June 11 - 12, 2019` International Conference on Science of Science, Tsinghua University and the University of Chicago Center in Beijing, China
 - `June 2 - 5, 2019` [6th World Conference on Research Integrity](http://wcri2019.org/), Hong Kong
