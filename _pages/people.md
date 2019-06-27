@@ -29,7 +29,8 @@ header:
 - Omkar Buchade, Computer Science, since Fall 2018 (in Summer 2019 internship with CBS Interactive)
 - Mengyu (Mike) Liu, Computer Science, since Fall 2018
 - Ananth Raj GV, iSchool, since Spring 2019
-
+- Rashika Singh, iSchool, starting Fall 2019
+- Sourabh Ghosh, iSchool, starting Fall 2019
 
 # Alumni
 
