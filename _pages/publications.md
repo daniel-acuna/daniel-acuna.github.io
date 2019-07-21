@@ -1,6 +1,10 @@
 #### 2019
 
-- Zeng, T, **Acuna, DE**, _Dead science: most resources linked in scientific articles disappear in eight years_, iConference 2019 (to appear in Lecture Notes of Computer Science)
+- Zeng, T, **Acuna, DE**, (2019) _Dead science: most resources linked in scientific articles disappear in eight years_, iConference 2019 (to appear in Lecture Notes of Computer Science)
+
+- Taraz G. Lee, **Acuna, DE**, K. P., Grafton, S. T. (2019) _Limiting motor skill knowledge via incidental 
+training protects against choking under pressure_, Psychonomic Bulletin & Review [Link](https://doi.org/10.3758/s13423-018-1486-x)
+
 
 #### 2018
 
@@ -10,9 +14,6 @@
 
 - **Acuna, DE**, Brooks, P, Kording, P (2018) _Bioscience-scale automated detection of figure element reuse_ (2018) BioArXiv, [Link](https://arxiv.org/pdf/1802.01270.pdf) `Preprint`
 
-
-- Taraz G. Lee, **Acuna, DE**, K. P., Grafton, S. T. (2018) _Limiting motor skill knowledge via incidental 
-training protects against choking under pressure_, Psychonomic Bulletin & Review [Link](https://doi.org/10.3758/s13423-018-1486-x)
 
 #### 2017
 
