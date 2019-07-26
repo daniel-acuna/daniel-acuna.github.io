@@ -1,3 +1,7 @@
+#### 2020
+
+- Zeng, T., **Acuna, DE**, (2020) _Dataset mention extraction in scientific articles using a BiLSTM-CRF model and its limitations_ Chapter 11 in Julia I. Lane, Ian Mulvany, and Paco Nathan (Ed.), Finding Datasets in Empirical Research, New York
+
 #### 2019
 
 - Zeng, T, **Acuna, DE**, (2019) _Dead science: most resources linked in scientific articles disappear in eight years_, iConference 2019 (to appear in Lecture Notes of Computer Science)

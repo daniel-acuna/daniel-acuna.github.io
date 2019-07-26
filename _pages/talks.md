@@ -1,3 +1,10 @@
+- June 12, 2019 - Invited talk, International Conference on Science of Science
+at the University of Chicago Beijing Center, Beijing, China - _Science of bad science_
+- May 10, 2019 - Invited speaker, 8th Annual Ethics in Biomedical Research Lecture, 
+University of Rochester School of Medicine and Dentistry - _To catch a scientific figure falsifier_
+- March 20, 2019 - Invited talk at 
+[Symposium of Yotta Informatics](http://www.aiyotta.tohoku.ac.jp/sympo2019/index.html), 
+Tohoku University, Sendai, Japan - _Artificial Psychophysics_  
 - July, 2018 - Invited Talk, iSchool - _Biases in AI models_
 - November, 2017 - Invited Talk, Computer Science, Syracuse University - _Data Science of Data Science: Should you improve your Hadoop skills or learn time series analytics?_
 - October, 2017 - Invited Talk, Rochester Institute of Technology - _Data Science of Data Science: Should you improve your Hadoop skills or learn time series analytics?_

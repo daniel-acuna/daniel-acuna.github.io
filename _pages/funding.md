@@ -12,7 +12,7 @@ The lab has been genereously supported by the following grants and awards:
 
 ## Office of Research Integrity, DHHS
 
-- `2018 - 2019`: [Methods and tools for scalable figure reuse
+- `2018 - 2020 (NCE)`: [Methods and tools for scalable figure reuse
  detection with statistical certainty reporting]({% 
  post_url 2018-07-01-scalable-figure-reuse-detection %})
 
