@@ -1,6 +1,7 @@
 #### 2020
 
-- Zeng, T., **Acuna, DE**, (2020) _Dataset mention extraction in scientific articles using a BiLSTM-CRF model and its limitations_ Chapter 11 in Julia I. Lane, Ian Mulvany, and Paco Nathan (Ed.), Finding Datasets in Empirical Research, New York
+- Zeng, T., **Acuna, DE**, (2020) _Dataset mention extraction in scientific articles using a BiLSTM-CRF model_ Chapter 11 in Julia I. Lane, Ian Mulvany, and Paco Nathan (Ed.), 
+Rich Search and Discovery for Research Datasets: Building the next generation of scholarly infrastructure, New York
 
 #### 2019
 
