@@ -4,7 +4,7 @@ excerpt: |
   Looking for Ph.D. and Master's students to work on exciting applications
   of artificial intelligence and pattern recognition to automate science.
 categories: Blog
-title: Acuna lab is looking for students to optimize science using machine learning
+title: Acuna lab is looking for students to optimize science using machine learning (new Fall 2019)
 published: true
 toc: true
 ---
@@ -20,7 +20,7 @@ at his [background](/about/), [research](/research/), and [recent grants](/fundi
 Professor Acuna teaches courses for the 
 Applied Data Science 
 and Information Management graduate degrees. He is currently the teacher and Professor of Record for 
-the course IST 718: Advanced Information Analytics.
+the course IST 718: Big Data Analytics.
 
 Past Master's students have done internships in Silicon Valley (e.g., Airbnb, Google), 
 are working in major consulting companies (e.g., Ernst & Young,  Goldman Sachs), and are 
@@ -28,12 +28,7 @@ broadly working as data scientists. Please see the [People section](/people/).
 
 ## About the position
  
-Professor Acuna is looking for Ph.D. and first-year Master's students to work on an exciting new project
-around the mathematical and computational modeling of scientific peer review. The ideal candidate 
-should have an undergraduate major in Computer Science, Engineering, Applied Statistics, Mathematics, 
-or a similar quantitative field. The work to be done revolves around a recently-awarded 
-[NSF grant]({% post_url 2018-06-22-optimizing-scientific-peer-review %}).
-
+Assistant Professor Daniel Acuna from the School of Information Studies ([https://acuna.io](https://acuna.io)), leader of the newly-formed Science of Science and Computational Discovery (SOS+CD) Lab, is looking for Master’s students to work on quantitative analysis of big data. Broadly speaking, the SOS+CD Lab works on understanding how science works and semi-automatically generating scientific discoveries from vast, unstructured dataset of full-text publications, citations, and images. The SOS+CD Lab uses a variety of computational techniques including deep learning, natural language processing, graph analytics, image processing and causal inference. The ideal candidate should have an undergraduate major in Computer Science, Engineering, Applied Statistics, Mathematics, or a similar quantitative field. 
 
 ### Requirements
 
@@ -64,6 +59,8 @@ Otherwise, send an email to `deacuna AT syr DOT edu` and include:
 1. Your Github repository, preferably with code from a personal project rather than a "class project".
 1. Your transcripts
 1. Your GRE, GMAT, or equivalent scores
+
+[Apply](https://fa.ischool.syr.edu/apply/cc429ca9-41aa-4bde-b040-40858de5f256/){: .btn .btn--success .btn--large}
 
 If you have any questions, do not hesitate in contacting me. 
 If you are thinking of applying to the Ph.D. program, we have a very competitive __fully-funded program__, and you
