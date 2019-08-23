@@ -20,7 +20,8 @@ header:
 
 # Doctoral students
 
-- [Han Zhuang](https://ischool.syr.edu/people/directories/view/hzhuang/), Research Assistant, iSchool, since Fall 2017
+- [Han Zhuang](https://ischool.syr.edu/people/directories/view/hzhuang/), Graduate Assistant, iSchool, since Fall 2017
+- [Dipto Das](https://ischool.syr.edu/people/directories/view/ddas05/), Research Assistant, iSchool, since Fall 2019
 
 # Master students
 
