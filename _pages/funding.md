@@ -12,16 +12,22 @@ The lab has been genereously supported by the following grants and awards:
 
 ## Office of Research Integrity, DHHS
 
+- `2019 - 2020`: (Conference grant) Computational Research Integrity Conference (CRI-CON)
+- `2019 - 2020`: Human-centered automatic tracing, detection, and evaluation of image and data tampering
 - `2018 - 2020 (NCE)`: [Methods and tools for scalable figure reuse
  detection with statistical certainty reporting]({% 
  post_url 2018-07-01-scalable-figure-reuse-detection %})
 
 ## National Science Foundation
 
+- `2019 - 2021`: [Collaborative proposal: Social dynamics of knowledge transfer through scientific mentorship and publication](https://nsf.gov/awardsearch/showAward?AWD_ID=1933803&HistoricalAwards=false)
 - `2018 - 2021`: [Optimizing scientific peer review]({% post_url 2018-06-22-optimizing-scientific-peer-review %})
 - `2016 - 2019`: [EAGER: Improving scientific innovation by linking 
   funding and scholarly literature]({% post_url 2016-09-01-grant-on-improving-scientific-innovation %})
-  
+
+## DARPA
+- `2019 - 2022`: SCORE project (subcontractor)
+
   
 ## Amazon AWS 
 
