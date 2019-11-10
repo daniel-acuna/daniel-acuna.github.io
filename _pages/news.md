@@ -1,9 +1,12 @@
 ## News
+- <i class="fas fa-newspaper"></i> [Funded NSF grant to study mentorship in science](/funding) 
+- <i class="fas fa-newspaper"></i> [A research grant and a conference grant funded by ORI](/funding). Inaugual Conference on Computational Research Integrity to be announced soon.
 - <i class="fas fa-newspaper"></i> Best poster award, Metascience 2019 conference (with Ph.D. student Han Zhuang)
 - <i class="fas fa-newspaper"></i> `October 14 - 16, 2019` A talk and poster accepted to the [Atlanta Conference on Science and Innovation Policy](http://www.atlconf.org/)
 
 ## Upcoming travel
 
+- `November 6 - 10, 2019` [Data Science Leadership Summit, Santa Fe, New Mexico](https://sites.google.com/msdse.org/datascienceleadership2019/home)
 - `October 14 - 16, 2019` [Atlanta Conference on Science and Innovation Policy](http://www.atlconf.org/), Atlanta, Georgia
 - `September 5 - 8, 2019` [Metascience 2019 Symposium](https://www.metascience2019.org/), Stanford University, Stanford, CA
 
