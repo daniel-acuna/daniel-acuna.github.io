@@ -27,7 +27,6 @@ header:
 
 - [Ziyue (Alan) Xiang](http://www.alanshawn.com/), Computer Science, since Fall 2018
 - Lizhen Liang, iSchool, since Fall 2018
-- Omkar Buchade, Computer Science, since Fall 2018 (in Summer 2019 internship with CBS Interactive)
 - Ananth Raj GV, iSchool, since Spring 2019
 - Rashika Singh, iSchool, starting Fall 2019
 - Sourabh Ghosh, Faculty Engagement Scholar, iSchool, starting Fall 2019
@@ -47,6 +46,7 @@ Practica, iSchool (Fall 2017-Spring 2018)
 
 
 #### Master's students
+- Omkar Buchade, Computer Science, since Fall 2018 (in Summer 2019 internship with CBS Interactive)
 - Mengyu (Mike) Liu, Computer Science, Fall 2018 - Summer 2019
 - Priya Matnani, iSchool (IM with CAS in Data Science), Faculty Engagement Scholar, Fall 2017 - Spring 2019 (Summer 2018 internship at Airbnb, San Francisco), data scientist at Airbnb
 - Xinxuan Wei, iSchool, Spring 2018 - Spring 2019, data scientist in Shanghai, China
