@@ -1,9 +1,8 @@
 ## News
-- <i class="fas fa-newspaper"></i> Paper accepted* for the
-ACM Conference on Fairness, Accountability, and Transparency (ACM FAT) in Barcelona, Spain! (* conditionally :)
+- <i class="fas fa-newspaper"></i> Paper accepted for the
+[ACM Conference on Fairness, Accountability, and Transparency (ACM FAT) 2020](https://fatconference.org) in Barcelona, Spain!
 - <i class="fas fa-newspaper"></i> [Funded NSF grant to study mentorship in science](/funding). Upcoming Summer School on Science of Science - August 3 - 7, 2020 in the iSchool of Syracuse University! 
 - <i class="fas fa-newspaper"></i> [A research grant and a conference grant funded by ORI](/funding). Inaugual Conference on Computational Research Integrity to be announced soon.
-- <i class="fas fa-newspaper"></i> Best poster award, Metascience 2019 conference (with Ph.D. student Han Zhuang)
 
 
 ## Upcoming travel
@@ -13,6 +12,7 @@ ACM Conference on Fairness, Accountability, and Transparency (ACM FAT) in Barcel
 
 ### News archive
 
+- <i class="fas fa-newspaper"></i> Best poster award, Metascience 2019 conference (with Ph.D. student Han Zhuang)
 - `October 14 - 16, 2019` A talk and poster accepted to the [Atlanta Conference on Science and Innovation Policy](http://www.atlconf.org/)
 - `June 2 - 5, 2019`
   Oral presentation at the [6th World Conference on Research Integrity](http://wcri2019.org/), Hong Kong
