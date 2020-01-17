@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "People"
-    url: /people/
-  - title: "Research"
-    url: /research/
+  - title: "SOS+CD Lab"
+    url: https://scienceofscience.org
+  - title: "Publications"
+    url: https://scienceofscience.org/publications/
   - title: "Teaching"
     url: /teaching/
   - title: "Funding"

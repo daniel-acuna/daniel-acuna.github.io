@@ -14,11 +14,11 @@ Before joining Syracuse University, Acuña studied a Ph.D. in Computer Science a
 
 - Liang., L., **Acuna, DE** (2020) _Artificial mental phenomena: Psychophysics as a framework to detect perception biases in AI models_ In Conference on Fairness, Accountability, and Transparency (FAT* ’20), [pre-print version](https://arxiv.org/abs/1912.10818)
 
-- Líenard, JF, Achakulvisut, T, **Acuna, DE**, David, SV, [_Intellectual Synthesis in Mentorship Determines Success in Academic Careers_](https://www.nature.com/articles/s41467-018-07034-y) (2018), Nature Communications, (press release in [Nature Asia](https://www.natureasia.com/en/research/highlight/12793))  
-- Teplitskiy, M, **Acuna, DE**, Elamrani-Raoult, A, Körding, K, Evans, J (2018) [_The sociology of scientific validity: How professional networks shape judgement in peer review_](https://www.sciencedirect.com/science/article/pii/S0048733318301598), Research Policy   
+- Líenard, JF, Achakulvisut, T, **Acuna, DE**, David, SV, [_Intellectual Synthesis in Mentorship Determines Success in Academic Careers_](https://www.nature.com/articles/s41467-018-07034-y) (2018), Nature Communications, (press release in [Nature Asia](https://www.natureasia.com/en/research/highlight/12793))
+- Teplitskiy, M, **Acuna, DE**, Elamrani-Raoult, A, Körding, K, Evans, J (2018) [_The sociology of scientific validity: How professional networks shape judgement in peer review_](https://www.sciencedirect.com/science/article/pii/S0048733318301598), Research Policy
 - **Acuna, DE**, Brooks, P, Kording, P (2018) [_Bioscience-scale automated detection of figure element reuse_](https://arxiv.org/pdf/1802.01270.pdf) BioArXiv, (related article in [Nature News](https://www.nature.com/articles/d41586-018-02421-3))
 - Ramkumar P, __Acuna DE__, Berniker M, Grafton S, Turner RS, Körding KP. (2016) [_Chunking as the result of an efficiency–computation tradeoff_](https://www.nature.com/articles/ncomms12176). Nature Communication
-- __Acuna, DE__, Berniker, M, Fernandes, H, Kording, K (2015) [_Using psychophysics to ask if the brain samples or maximizes_](https://jov.arvojournals.org/article.aspx?articleid=2213288), Journal of Vision  
+- __Acuna, DE__, Berniker, M, Fernandes, H, Kording, K (2015) [_Using psychophysics to ask if the brain samples or maximizes_](https://jov.arvojournals.org/article.aspx?articleid=2213288), Journal of Vision
 - __Acuna, DE__, Allesina, S., Kording, KP, (2012) [_Future impact: Predicting scientific success_](https://www.nature.com/articles/489201a), Nature
 
 ## Current projects
@@ -29,5 +29,5 @@ Before joining Syracuse University, Acuña studied a Ph.D. in Computer Science a
 - PI: Daniel E. Acuna, DDHS: Office of Research Integrity: Methods and tools for scalable figure reuse detection with statistical certainty, Award ORI2018000296, 8/1/2018 - 7/31/2020
 - PI: Daniel E. Acuna, co-PIs: Konrad Kording (UPenn), James Evans (U of Chicago) NSF-SciSIP: Optimizing Scientific Peer Review, Award #1800956, 7/1/2018 - 6/30/2021
 
-{% capture news_include %}{% include_relative news.md %}{% endcapture %}
+{% capture news_include %}{% include_relative _pages/news.md %}{% endcapture %}
 {{ news_include | markdownify }}

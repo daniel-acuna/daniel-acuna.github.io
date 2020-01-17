@@ -5,7 +5,7 @@
 - <i class="fas fa-newspaper"></i> [A research grant and a conference grant funded by ORI](/funding). Inaugual Conference on Computational Research Integrity to be announced soon.
 
 
-## Upcoming travel
+### Upcoming travel
 
 - `June 23 - 15, 2020` Computational Research Integrity Conference 2020, Washington, DC
 - `January 27 - 30, 2020` [ACM FAT Conference](https://fatconference.org/) Barcelona, Spain 
