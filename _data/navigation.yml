@@ -4,6 +4,8 @@ main:
     url: https://scienceofscience.org
   - title: "Publications"
     url: https://scienceofscience.org/publications/
+  - title: "CV"
+    url: /assets/pdf/daniel_acuna_CV.pdf
   - title: "Teaching"
     url: /teaching/
   - title: "Funding"
