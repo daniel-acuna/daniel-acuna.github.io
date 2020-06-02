@@ -13,7 +13,6 @@ Before joining Syracuse University, Acuña studied a Ph.D. in Computer Science a
 ## Selected publications
 
 - Liang., L., **Acuna, DE** (2020) _Artificial mental phenomena: Psychophysics as a framework to detect perception biases in AI models_ In Conference on Fairness, Accountability, and Transparency (FAT* ’20), [pre-print version](https://arxiv.org/abs/1912.10818)
-
 - Líenard, JF, Achakulvisut, T, **Acuna, DE**, David, SV, [_Intellectual Synthesis in Mentorship Determines Success in Academic Careers_](https://www.nature.com/articles/s41467-018-07034-y) (2018), Nature Communications, (press release in [Nature Asia](https://www.natureasia.com/en/research/highlight/12793))  
 - Teplitskiy, M, **Acuna, DE**, Elamrani-Raoult, A, Körding, K, Evans, J (2018) [_The sociology of scientific validity: How professional networks shape judgement in peer review_](https://www.sciencedirect.com/science/article/pii/S0048733318301598), Research Policy   
 - **Acuna, DE**, Brooks, P, Kording, P (2018) [_Bioscience-scale automated detection of figure element reuse_](https://arxiv.org/pdf/1802.01270.pdf) BioArXiv, (related article in [Nature News](https://www.nature.com/articles/d41586-018-02421-3))
@@ -23,6 +22,7 @@ Before joining Syracuse University, Acuña studied a Ph.D. in Computer Science a
 
 ## Current projects
 
+- co-PI: Daniel E. Acuna, PI: David Popp (Maxwell School) Sloan Foundation: Does government funding change what you do? The effects of funding on the direction and impact of academic energy research
 - co-PI: Daniel E. Acuna, co-PI: Stephen David (Oregon) NSF-SciSIP: Collaborative Research: Social Dynamics of Knowledge Transfer Through Scientific Mentorship and Publication, 10/1/2019 - 9/30/2021
 - PI: Daniel E. Acuna, DDHS: Office of Research Integrity: (Conference grant) Computational Research Integrity Conference (CRI-CON), 9/1/2019 - 8/31/2020
 - PI: Daniel E. Acuna, DDHS: Office of Research Integrity: Human-centered automatic tracing, detection, and evaluation of image and data tampering, 9/1/2019 - 8/31/2020

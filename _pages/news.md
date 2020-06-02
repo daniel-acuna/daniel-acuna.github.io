@@ -1,4 +1,6 @@
 ## News
+- <i class="fas fa-newspaper"></i> New grant from Sloan Foundation to study the effects of funding on the direction and impact of academic energy research (as co-PI with David Popp)
+[News](https://www.maxwell.syr.edu/news/stories/Popp_s_work_on_government_research_support_funded_by_Sloan_Foundation/)
 - <i class="fas fa-newspaper"></i> Paper accepted for the
 [ACM Conference on Fairness, Accountability, and Transparency (ACM FAT) 2020](https://fatconference.org) in Barcelona, Spain!
 - <i class="fas fa-newspaper"></i> [Funded NSF grant to study mentorship in science](/funding). Upcoming Summer School on Science of Science - August 3 - 7, 2020 in the iSchool of Syracuse University! 

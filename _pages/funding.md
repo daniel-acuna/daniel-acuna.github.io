@@ -10,6 +10,10 @@ title: "Funding"
 
 The lab has been genereously supported by the following grants and awards:
 
+## Sloan Foundation
+
+- `2020 - 2023`: Does Government Funding Change What You Do? The Effects of Funding on the Direction and Impact of Academic Energy Research (PI: David Popp, Maxwell School of Citizenship and Public Affairs)
+
 ## Office of Research Integrity, DHHS
 
 - `2019 - 2020`: (Conference grant) Computational Research Integrity Conference (CRI-CON)
