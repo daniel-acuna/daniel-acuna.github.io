@@ -9,7 +9,6 @@
 
 ### Upcoming travel
 
-- `June 23 - 15, 2020` Computational Research Integrity Conference 2020, Washington, DC
 - `January 27 - 30, 2020` [ACM FAT Conference](https://fatconference.org/) Barcelona, Spain 
 
 ### News archive
