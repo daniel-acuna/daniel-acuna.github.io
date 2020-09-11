@@ -5,6 +5,7 @@ author_profile: true
 title: "About"
 toc: true
 ---
+[I am looking for Ph.D. students for Fall 2021](https://scienceofscience.org/recruitment/)
 
 Daniel Ernesto Acuña is an Assistant Professor in the School of Information Studies at Syracuse University, Syracuse, NY. The goal of his current research is to understand decision making in science—from helping hiring committees to predict future academic success to removing the potential biases that scientists and funding agencies commit during peer review. To achieve these tasks, Dr. Acuna harnesses vast datasets about scientific activities and applies Machine Learning and A.I. to uncover rules that make publication, collaboration, and funding decisions more successful. Simultaneously, he has created tools to improve literature search, peer review, and detect scientific fraud. He has grants from NSF, DDHS, and DARPA and his work has been featured in Nature Podcast, The Chronicle of Higher Education, NPR, and the Scientist.
 
