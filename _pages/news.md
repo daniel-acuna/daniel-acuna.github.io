@@ -1,9 +1,13 @@
 ## News
+- <i class="fas fa-newspaper"></i> New grant from the US's Office of Research Integrity: [Large-scale High-Quality Labeled Datasets and Competitions to Advance Artificial Intelligence for Computational Research Integrity](https://ori.hhs.gov/blog/ori-awards-six-research-integrity-grants).
+- <i class="fas fa-newspaper"></i> New grant from Sloan Foundation to study the effects of funding on the direction and impact of academic energy research (as co-PI with David Popp)
+[News](https://www.maxwell.syr.edu/news/stories/Popp_s_work_on_government_research_support_funded_by_Sloan_Foundation/)
+- <i class="fas fa-newspaper"></i> [Summer School on Science of Science](https://scienceofscience.org/s4) postponed until next year August 2 - 6, 2021 in the iSchool of Syracuse University! 
 - <i class="fas fa-newspaper"></i> New grant from Sloan Foundation to study the effects of funding on the direction and impact of academic energy research (as co-PI with David Popp)
 [News](https://www.maxwell.syr.edu/news/stories/Popp_s_work_on_government_research_support_funded_by_Sloan_Foundation/)
 - <i class="fas fa-newspaper"></i> Paper accepted for the
 [ACM Conference on Fairness, Accountability, and Transparency (ACM FAT) 2020](https://fatconference.org) in Barcelona, Spain!
-- <i class="fas fa-newspaper"></i> [Funded NSF grant to study mentorship in science](/funding). Upcoming Summer School on Science of Science - August 3 - 7, 2020 in the iSchool of Syracuse University! 
+- <i class="fas fa-newspaper"></i> [Funded NSF grant to study mentorship in science](/funding). 
 - <i class="fas fa-newspaper"></i> [A research grant and a conference grant funded by ORI](/funding). Inaugual Conference on Computational Research Integrity to be announced soon.
 
 

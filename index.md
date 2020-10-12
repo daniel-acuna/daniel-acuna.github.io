@@ -7,7 +7,7 @@ toc: true
 ---
 [I am looking for Ph.D. students for Fall 2021](https://scienceofscience.org/recruitment/)
 
-Daniel Ernesto Acuña is an Assistant Professor in the School of Information Studies at Syracuse University, Syracuse, NY. The goal of his current research is to understand decision making in science—from helping hiring committees to predict future academic success to removing the potential biases that scientists and funding agencies commit during peer review. To achieve these tasks, Dr. Acuna harnesses vast datasets about scientific activities and applies Machine Learning and A.I. to uncover rules that make publication, collaboration, and funding decisions more successful. Simultaneously, he has created tools to improve literature search, peer review, and detect scientific fraud. He has grants from NSF, DDHS, and DARPA and his work has been featured in Nature Podcast, The Chronicle of Higher Education, NPR, and the Scientist.
+Daniel Acuña is an Assistant Professor in the School of Information Studies at Syracuse University, Syracuse, NY. The goal of his current research is to understand decision making in science—from helping hiring committees to predict future academic success to removing the potential biases that scientists and funding agencies commit during peer review. To achieve these tasks, Dr. Acuna harnesses vast datasets about scientific activities and applies Machine Learning and A.I. to uncover rules that make publication, collaboration, and funding decisions more successful. Simultaneously, he has created tools to improve literature search, peer review, and detect scientific fraud. He has grants from NSF, DDHS, and DARPA and his work has been featured in Nature Podcast, The Chronicle of Higher Education, NPR, and the Scientist.
 
 Before joining Syracuse University, Acuña studied a Ph.D. in Computer Science at the [University of Minnesota, Twin Cities](https://www.cs.umn.edu/) and was a postdoctoral researcher at [Northwestern University](https://www.northwestern.edu/) and the [Rehabilitation Institute of Chicago](https://www.sralab.org/). During his graduate studies, he received a NIH Neuro-physical-computational Sciences (NPCS) Graduate Training Fellowship, NIPS Travel Award, and a CONICYT-World Bank Fellowship
 
@@ -23,6 +23,7 @@ Before joining Syracuse University, Acuña studied a Ph.D. in Computer Science a
 
 ## Current projects
 
+- PI: Daniel E. Acuna: US's Office of Research Integrity: *Large-scale High-Quality Labeled Datasets and Competitions to Advance Artificial Intelligence for Computational Research Integrity*, 10/01/2020 - 09/01/2021
 - co-PI: Daniel E. Acuna, PI: David Popp (Maxwell School) Sloan Foundation: *Does government funding change what you do? The effects of funding on the direction and impact of academic energy research*, 6/1/2020 - 5/30/2022
 - co-PI: Daniel E. Acuna, co-PI: Stephen David (Oregon) NSF-SciSIP: *Collaborative Research: Social Dynamics of Knowledge Transfer Through Scientific Mentorship and Publication*, 10/1/2019 - 9/30/2021
 - PI: Daniel E. Acuna, DDHS: Office of Research Integrity: (Conference grant) *Computational Research Integrity Conference (CRI-CON)*, 9/1/2019 - 8/31/2020
