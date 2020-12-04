@@ -1,4 +1,5 @@
 ## News
+- <i class="fas fa-newspaper"></i> [Presentation at International Conference of Social Computing (virtual)](http://css.aerber.cn/institution/social_computing/csc/csc.html)
 - <i class="fas fa-newspaper"></i> New grant from the US's Office of Research Integrity: [Large-scale High-Quality Labeled Datasets and Competitions to Advance Artificial Intelligence for Computational Research Integrity](https://ori.hhs.gov/blog/ori-awards-six-research-integrity-grants).
 - <i class="fas fa-newspaper"></i> New grant from Sloan Foundation to study the effects of funding on the direction and impact of academic energy research (as co-PI with David Popp)
 [News](https://www.maxwell.syr.edu/news/stories/Popp_s_work_on_government_research_support_funded_by_Sloan_Foundation/)
