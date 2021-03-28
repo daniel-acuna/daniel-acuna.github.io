@@ -12,6 +12,7 @@ Before joining Syracuse University, Acuña studied a Ph.D. in Computer Science a
 
 ## Selected publications
 
+- **Acuna, DE** (2020) _Some considerations for studying gender, mentorship, and scientific impact: commentary on AlShebli, Makovi, and Rahwan_, [OSF Preprints](https://osf.io/ybfk6)
 - Liang., L., **Acuna, DE** (2020) _Artificial mental phenomena: Psychophysics as a framework to detect perception biases in AI models_ In Conference on Fairness, Accountability, and Transparency (FAT* ’20), [pre-print version](https://arxiv.org/abs/1912.10818)
 - Líenard, JF, Achakulvisut, T, **Acuna, DE**, David, SV, [_Intellectual Synthesis in Mentorship Determines Success in Academic Careers_](https://www.nature.com/articles/s41467-018-07034-y) (2018), Nature Communications, (press release in [Nature Asia](https://www.natureasia.com/en/research/highlight/12793))
 - Teplitskiy, M, **Acuna, DE**, Elamrani-Raoult, A, Körding, K, Evans, J (2018) [_The sociology of scientific validity: How professional networks shape judgement in peer review_](https://www.sciencedirect.com/science/article/pii/S0048733318301598), Research Policy
